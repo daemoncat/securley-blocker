@@ -1,3 +1,6 @@
+!ALERT! this has been patched by securley, i am trying to find a different unblocker. more updates when i have found one.
+
+
 Hi internet/github alike! I have found a way to disable that pestelential app Securly. Credit goes to THE-UNBLOCKER to discover this vulnrability.
 
 
